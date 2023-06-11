@@ -1,5 +1,5 @@
-<div align="center" style="background color: black">
-  <h1 style="color:white">Shehryar Saqib</h1>
+<div align="center" style="background color: #000000;">
+  <h1 style="color:#ffffff;">Shehryar Saqib</h1>
 </div>
 
 ## ABOUT ME
