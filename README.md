@@ -4,7 +4,7 @@
 
 ## ABOUT ME
 
-Enthusiastic and adaptable third-year software engineering student driven by curiosity and a desire to embrace challenges. Interested in data analytics, data science, AI, and ML, with a goal to contribute to cutting-edge advancements in technology.
+I'm Shehryar Saqib. An enthusiastic and adaptable third-year software engineering student driven by curiosity and a desire to embrace challenges. Interested in data analytics, data science, AI, and ML, with a goal to contribute to cutting-edge advancements in technology.
 
 Thanks for stopping by and feel free to reach out if you have any questions or want to collaborate on a project!
 
@@ -16,6 +16,7 @@ Thanks for stopping by and feel free to reach out if you have any questions or w
 
 ---
 
+<h1>Top Languages</h1>
 <div align="center">
   <a href="https://github.com/shehryar-saqib/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehryar-saqib&layout=compact" alt="Shehryar's Top Languages">
