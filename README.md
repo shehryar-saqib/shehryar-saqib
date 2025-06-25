@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/shehryar-saqib?tab=repositories)
 
-- 💬 Ask me about **Data Science, Machine Learning, Web Development**
+- 💬 Ask me about **Data Analytics, Generative AI, Deep Learning**.
 
 - 📫 How to reach me **shehryarsaqib9@gmail.com**
 
